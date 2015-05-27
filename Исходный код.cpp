@@ -67,6 +67,5 @@ int main(void)/// functia main
 	obhO(0,n,a);
 	cout<<"\n симметричный обход \n";
 	obhS(0,n,a);
-	return 0;
 	system("pause");
 }
